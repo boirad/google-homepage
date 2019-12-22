@@ -88,7 +88,7 @@ header nav li a:hover {
     display: block;
     border-radius: 50px;
     border: 1px solid lightgray;
-    background: url(/img/search_icon.png);
+    background: url(https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Vector_search_icon.svg/945px-Vector_search_icon.svg.png);
     background-size: 15px;
     background-repeat: no-repeat;
     background-position: 20px;
